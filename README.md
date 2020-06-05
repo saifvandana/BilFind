@@ -1,7 +1,7 @@
 
 ## Project Name: BilFind
-## Group: "The Erudite" / g1D (Section 1 , Group D)
-## Status: All done except Database Implementations (Text Files used instead)
+Group: "The Erudite" / g1D (Section 1 , Group D)
+Status: All done except Database Implementations (Text Files used instead)
 
 The Project allows students of Bilkent University to access locations on campus that would 
 otherwise not be found on existing map applications. The application also maps places such
